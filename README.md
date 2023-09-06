@@ -1,4 +1,5 @@
-### Hi there 👋
+### 自我介绍
+我叫叶雨晴，来自福建南平，喜欢听音乐，喜欢旅游。
 
 <!--
 **Nat-tri/Nat-tri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
